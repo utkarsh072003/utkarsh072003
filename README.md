@@ -3,75 +3,51 @@
 <h3 align="center">🚀 MERN Stack Developer | AI/ML Enthusiast | CSE @ IIIT Kota ’26</h3>
 
 <p align="center">
-I love building scalable web applications and intelligent AI-powered tools.  
-Focused on clean code, problem-solving, and turning ideas into real-world products.  
-Always learning, improving, and contributing to meaningful projects 🚀  
+I enjoy building full-stack applications and intelligent AI-driven systems.<br/>
+I focus on clean code, scalable architecture, and meaningful real-world projects.<br/>
+Always learning, exploring, and pushing my limits 🚀
 </p>
 
 ---
 
-## 💡 About Me
+## ⚡ Tech Stack (Logo Line)
 
-- 🌱 Currently learning **Advanced MERN, AI Integrations, Cloud Deployments**
-- 💻 Building **Virtual Assistant, QuickShow & Chat Applications**
-- 🤖 Interested in **AI/ML + Web Dev + Real-time Apps**
-- 🎯 Goal: Become a **Full-Stack Software Engineer**
-- 📫 Reach me: **utkarsh072003@gmail.com**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,python,js,react,nodejs,express,mongodb,scikit-learn,git,github,vscode,postman" height="55" />
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠 Detailed Tech Stack (Table Format)
 
-### 🚀 **Languages**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=js,cpp,python" />
-</p>
-
-### 🎨 **Frontend**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind" />
-</p>
-
-### 🧩 **Backend**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
-
-### 🗄️ **Databases**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-</p>
-
-### 🤖 **AI / Machine Learning**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python" />
-</p>
-
-### 🔧 **Tools**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
-</p>
+| Category | Technologies |
+|----------|--------------|
+| **Programming Languages** | C++, Python, JavaScript |
+| **Web Technologies** | HTML5, CSS3, React.js, Node.js, Express.js, Tailwind CSS, Axios |
+| **Databases & ORMs** | MongoDB, MySQL, Mongoose |
+| **Machine Learning** | Scikit-learn, NumPy, Pandas, Matplotlib, NLP |
+| **Developer Tools** | Git, GitHub, VS Code, Postman, Vercel, Render |
 
 ---
 
 ## 🔥 Featured Projects
 
 ### 🧠 **Virtual AI Assistant**
-AI-powered assistant with voice input, real-time responses, YouTube search, customizable avatar, and user authentication.  
-**Tech:** MERN + AI APIs  
+A smart voice-enabled AI assistant with real-time responses, avatar customization, authentication, and YouTube search integration.  
+**Tech:** React, Node.js, Express.js, MongoDB, Cloudinary, AI APIs  
 🔗 [Source Code](#)
 
 ---
 
 ### 🎬 **QuickShow – Movie Booking Platform**
-Interactive seat booking system with admin dashboard, email confirmations, and real-time updates.  
-**Tech:** MERN + Email API  
+A production-ready movie ticket booking system with real-time seat selection, email confirmations, admin panel, and smooth UI.  
+**Tech:** MERN Stack, Nodemailer  
 🔗 [Source Code](#)
 
 ---
 
 ### 💬 **Chat App**
-Real-time chat using Socket.io with online/offline status, message indicators, and groups.  
+Real-time chat application with Socket.io, room-based chat, typing indicators, and online/offline status.  
 **Tech:** MERN + Socket.io  
 🔗 [Source Code](#)
 
@@ -90,19 +66,18 @@ Real-time chat using Socket.io with online/offline status, message indicators, a
 
 ---
 
-## 🔗 Connect With Me
+## 🤝 Connect With Me
 
-<p>
-  <a href="https://www.linkedin.com/in/utkarshkumar-4058a625a">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+<p align="center">
+  <a href="https://www.linkedin.com/in/utkarsh-kumar-4058a625a/">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
   </a>
+  &nbsp;&nbsp;
   <a href="mailto:utkarsh072003@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
+    <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
   </a>
 </p>
 
 ---
 
-<p align="center">
-⭐ If you like my projects, consider giving them a star!
-</p>
+<p align="center">⭐ If you like my work, consider giving my repositories a star!</p>
