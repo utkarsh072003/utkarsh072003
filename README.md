@@ -13,7 +13,7 @@ Always learning, exploring, and pushing my limits 🚀
 ## ⚡ Tech Stack (Logo Line)
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,js,react,nodejs,express,mongodb,scikit-learn,git,github,vscode,postman" height="55" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,js,react,nodejs,express,mongodb,git,github,vscode,postman" height="55" />
 </p>
 
 ---
